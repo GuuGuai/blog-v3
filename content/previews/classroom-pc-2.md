@@ -1,17 +1,12 @@
 ---
 title: 修监控
-description: 本文最初发布于野生技协QQ群内
+description: 本文最初发布于野生技协QQ群内，
 date: 2021-07-09
 updated: 2024-02-16 15:48:52
 type: story
 categories: [杂谈]
 tags: [高中, 电教, 校园]
 ---
-
-::alert
-#title
-前文回顾：[《电脑是你修坏的吗》](/2021/classroom-pc-1)
-::
 
 某日，某重点中学校门口的监控坏了，视频图像无法传输，保卫处刘处长觉得事情不妙，于是乎，他叫了某中心维修工张师傅。
 
