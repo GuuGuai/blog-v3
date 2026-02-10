@@ -69,7 +69,7 @@ const blogConfig = {
 	/** 向 <head> 中添加脚本 */
 	scripts: [
 		// 自己部署的 Umami 统计服务
-		{ 'src': 'https://deluxe-lamington-1608e5.netlify.app/script.js', 'data-website-id': 'ae322dda-e6cd-4290-9008-2ba2af4ef85e', 'defer': true },
+		{ 'src': 'https://gug-umami.netlify.app/script.js', 'data-website-id': 'ae322dda-e6cd-4290-9008-2ba2af4ef85e', 'defer': true },
 		// 自己网站的 Cloudflare Insights 统计服务
 		{ 'src': 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "a6a9f9b04e5d4fc492a8844a45276fd5"}', 'defer': true },
 		// Twikoo 评论系统
