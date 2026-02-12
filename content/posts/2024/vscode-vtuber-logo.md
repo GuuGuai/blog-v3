@@ -1,5 +1,6 @@
 ---
 title: VScode更换Vtuber风格LOGO
+description: 介绍使用 Custom CSS and JS Loader 扩展修改 VSCode 默认背景 LOGO 的方法，实现编辑器界面的个性化定制。
 date: 2024-05-05 10:39:42
 updated: 2024-05-05 12:07:52
 tags:
@@ -38,7 +39,9 @@ categories: [经验分享]
 * 修改完毕后点击代码块右上角的`Raw`按钮，页面跳转为只显示CSS文件内容，然后复制当前页面链接。
 * 在VScode中打开设置，搜索`@ext:be5invis.vscode-custom-css`，进入扩展设置，找到`Vscode_custom_css: Imports`，点击`在settings.json 中编辑`，在`settings.json`中找到（没有的话自己加）：
 ``` json
-"vscode_custom_css.imports": [""]
+{
+  "vscode_custom_css.imports": ["",],
+}
 ```
 * 当然也可以在扩展介绍页面点击卸载按钮旁边的齿轮图标直接进入扩展设置。
 * `[""]`的引号内填写你刚刚复制的链接，Ctrl+S保存并关闭文件。

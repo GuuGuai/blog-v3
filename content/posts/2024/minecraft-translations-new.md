@@ -1,5 +1,6 @@
 ---
 title: Java版的译名是Mojang官方翻译的吗？
+description: 为仙建世界社团的同学们简单介绍Minecraft Java版基于Crowdin平台的社区翻译机制，解释为何Java版翻译既非Mojang官方制作也非外包，并简单叙述译名从讨论到采纳的流程。
 date: 2024-08-07 11:09:03
 updated: 2024-08-07 19:44:09
 tags:

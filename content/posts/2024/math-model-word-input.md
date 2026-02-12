@@ -1,8 +1,9 @@
 ---
 title: MATLAB如何导入Word文档中的表格数据
+description: 24年西建大数模校赛C题中，题目数据以表格的形式放进了word文档之中，部分同学被这个数据导入给卡住了，对着word里面的数据无从下手，其实MATLAB提供了从word中导入表格数据的函数。
 date: 2024-05-04 11:17:03
 updated: 2024-05-04 16:02:45
-tags: 
+tags:
     - 数学建模
     - MATLAB
 categories: [数学建模]

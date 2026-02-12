@@ -1,5 +1,6 @@
 ---
 title: MATLAB-笔记1
+description: MATLAB学习笔记，为数学建模竞赛的一点准备。
 date: 2024-01-29 15:29:45
 updated: 2024-03-30 13:11:47
 tags:

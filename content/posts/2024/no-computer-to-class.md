@@ -1,15 +1,13 @@
 ---
 title: 上课不带电脑之：我走了多少弯路？
+description: 记录我在尝试用安卓平板代替笔记本电脑上课的折腾过程。从 Moonlight 串流、Termux 跑 Linux 容器，到 VSCode 远程隧道、本地运行 Jupyter，最终定格在服务器部署 code-server 的多次尝试与总结。
 date: 2024-05-28 16:00:10
 updated: 2024-05-29 01:14:38
 tags:
     - VScode
-    - 远程开发
     - code-server
     - Jupyter
-    - AWS
 categories: [经验分享]
-plugins: [indent]
 ---
 
 ## 前言
