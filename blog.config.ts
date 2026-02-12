@@ -37,6 +37,7 @@ const blogConfig = {
 			Minecraft: { icon: 'mdi:minecraft', color: '#3ba' },
 			数学建模: { icon: 'ph:sigma-bold', color: '#f77' },
 			考研: { icon: 'ph:graduation-cap-bold', color: '#77f' },
+			杂谈: { icon: 'ph:chat-text-bold', color: 'rgb(190, 96, 245)' },
 		},
 		defaultCategoryIcon: 'ph:folder-bold',
 		/** 文章版式，首个为默认版式 */
