@@ -2,6 +2,7 @@
 const { timeEstablished } = useAppConfig()
 
 const blogLog = [
+	{ label: '2026-02-12', value: '使用 blog.guuguai.site 域名' },
 	{ label: '2026-02-09', value: '弃用Hexo框架，更换为纸鹿的blog-v3（Nuxt 4 & Nuxt Content v3）' },
 	{ label: '2024-03-30', value: '升级框架与主题版本' },
 	{ label: '2022-06-21', value: '部署于Netlify，使用Volantis主题' },

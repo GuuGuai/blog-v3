@@ -8,8 +8,8 @@ const basicConfig = {
 	author: {
 		name: 'GuuGuai',
 		avatar: 'https://cravatar.cn/avatar/646331BFF8F19A0E05679C3CC0FC54D6',
-		email: 'kaguyasama@yeah.net',
-		homepage: 'https://gug.thisis.host/',
+		email: 'hi@guuguai.site',
+		homepage: 'https://blog.guuguai.site/',
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',
@@ -20,7 +20,7 @@ const basicConfig = {
 	language: 'zh-CN',
 	timeEstablished: '2022-04-24',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://gug.thisis.host/',
+	url: 'https://blog.guuguai.site/',
 	defaultCategory: '未分类',
 }
 
@@ -69,7 +69,7 @@ const blogConfig = {
 	/** 向 <head> 中添加脚本 */
 	scripts: [
 		// 自己部署的 Umami 统计服务
-		{ 'src': 'https://gug-umami.netlify.app/script.js', 'data-website-id': 'ae322dda-e6cd-4290-9008-2ba2af4ef85e', 'defer': true },
+		{ 'src': 'https://u.guuguai.site/script.js', 'data-website-id': 'ae322dda-e6cd-4290-9008-2ba2af4ef85e', 'defer': true },
 		// 自己网站的 Cloudflare Insights 统计服务
 		{ 'src': 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "a6a9f9b04e5d4fc492a8844a45276fd5"}', 'defer': true },
 		// Twikoo 评论系统
