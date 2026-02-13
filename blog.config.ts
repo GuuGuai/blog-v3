@@ -79,8 +79,8 @@ const blogConfig = {
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: 'https://gug-twikoo-netgug.netlify.app/.netlify/functions/twikoo',
-		preload: 'https://gug-twikoo-netgug.netlify.app/',
+		envId: 'https://twikoo.guuguai.site/.netlify/functions/twikoo',
+		preload: 'https://twikoo.guuguai.site/',
 	},
 }
 
