@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://gug.thisis.host/*"
-  to = https://blog.guuguai.site/:splat"
-  status = 301
-  force = true

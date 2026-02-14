@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://gug.thisis.host/*"
+  to = https://blog.guuguai.site/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://gugblog.netlify.app/*"
+  to = https://blog.guuguai.site/:splat"
+  status = 301
+  force = true
