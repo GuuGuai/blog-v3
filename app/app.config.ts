@@ -61,7 +61,8 @@ export default defineAppConfig({
 			// { icon: 'ri:qq-line', text: '交流群: 169994096', url: 'https://jq.qq.com/?_wv=1027&k=lQfNSeEd' },
 			{ icon: 'ph:github-logo-bold', text: 'GitHub: GuuGuai', url: 'https://github.com/guuguai' },
 			{ icon: 'ph:rss-simple-bold', text: 'Atom订阅', url: '/atom.xml' },
-			{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/' },
+			{ icon: 'ph:planet-bold', text: '异次元之旅', url: 'https://travel.moe/go.html' },
+			{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/go.html' },
 		] satisfies NavItem[],
 		/** 页脚站点地图 */
 		nav: [
@@ -69,7 +70,8 @@ export default defineAppConfig({
 				title: '探索',
 				items: [
 					{ icon: 'ph:rss-simple-bold', text: 'Atom订阅', url: '/atom.xml' },
-					{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/' },
+					{ icon: 'ph:planet-bold', text: '异次元之旅', url: 'https://travel.moe/go.html' },
+					{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/go.html' },
 				],
 			},
 			{
@@ -85,7 +87,7 @@ export default defineAppConfig({
 				items: [
 					{ icon: 'simple-icons:nuxt', text: `主题: ${pascal(name)} ${version}`, url: 'https://github.com/L33Z22L11/blog-v3' },
 					{ icon: 'ph:swatches-bold', text: '主题和组件文档', url: 'https://blog.zhilu.site/theme' },
-					// { icon: 'ph:certificate-bold', text: '备案', url: 'https://beian.miit.gov.cn/' },
+					{ icon: 'ph:certificate-bold', text: '萌ICP备20220632号', url: 'https://icp.gov.moe/?keyword=20220632' },
 				],
 			},
 		] satisfies Nav,
