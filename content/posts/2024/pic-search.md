@@ -32,7 +32,7 @@ categories: [经验分享]
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/ecbbab61137887306e63f96306fad84b.webp
+src: https://assets.065535.xyz/posts/20260215_saucenao-homepage.webp
 caption: SauceNAO首页
 width: 500
 ---
@@ -42,7 +42,7 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/cc19e198e7de1b01d481e0c7a1c525c8.webp
+src: https://assets.065535.xyz/posts/20260215_saucenao-results.webp
 caption: SauceNAO搜索结果页
 width: 500
 ---
@@ -52,7 +52,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/120e3c91dec21e3ea3594a7755160840.webp
+src: https://assets.065535.xyz/posts/20260215_saucenao-other-results.webp
+caption: SauceNAO多种检索结果
 width: 500
 ---
 ::
@@ -61,7 +62,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/20fa1b622736432bc55df582c676e67f.png
+src: https://assets.065535.xyz/posts/20260215_saucenao-ext-install.png
+caption: SauceNAO拓展安装
 width: 500
 ---
 ::
@@ -70,7 +72,7 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/ce4842a185d41f0e28600887a4c099c7.webp
+src: https://assets.065535.xyz/posts/20260215_saucenao-ext-menu.webp
 width: 500
 ---
 ::
@@ -83,7 +85,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/ee2bac2f94788a695a563a875528813e.png
+src: https://assets.065535.xyz/posts/20260215_ascii2d-homepage.png
+caption: ascii2d主页
 width: 500
 ---
 ::
@@ -92,7 +95,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/2196f5b54e3d8ed57618905cfa6e0e35.png
+src: https://assets.065535.xyz/posts/20260215_ascii2d-color-results.png
+caption: 色合检索结果
 width: 500
 ---
 ::
@@ -101,14 +105,16 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/7ba14297255ecce6b8b5b5986edaeef2.png
+src: https://assets.065535.xyz/posts/20260215_ascii2d-feat-results1.png
+caption: 特徴检索位置
 width: 500
 ---
 ::
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/40d4bd10d7b0ccf882135951c629de90.png
+src: https://assets.065535.xyz/posts/20260215_ascii2d-feat-results2.png
+caption: 特徴检索结果
 width: 500
 ---
 ::
@@ -119,7 +125,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/c7a79271862a1faa49559ffafd5154ad.png
+src: https://assets.065535.xyz/posts/20260215_google-homepage.png
+caption: Google主页
 width: 500
 ---
 ::
@@ -141,7 +148,7 @@ Google的搜图结果可以找到很多关于这个图的线索，根据得到�
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/ac18401cd83f26c6ae7d5960ab379a89.jpg
+src: https://assets.065535.xyz/posts/20260215_example-pic.jpg
 width: 200
 ---
 ::
@@ -165,7 +172,7 @@ width: 200
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/0cb606345fd573cb9cc8dd497129ed98.png
+src: https://assets.065535.xyz/posts/20260215_google-results.png
 caption: Google全部搜索结果
 width: 500
 ---
@@ -175,7 +182,7 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/c9e868f2e5cbe1876dc6d2be79d38025.png
+src: https://assets.065535.xyz/posts/20260215_google-exact-match.png
 caption: 完全匹配的结果
 height: 500
 ---
@@ -185,7 +192,7 @@ height: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/2ba915803e53610cd74a36376aa7c0f5.png
+src: https://assets.065535.xyz/posts/20260215_nga-result.png
 caption: NGA的帖子
 width: 500
 ---
@@ -195,7 +202,8 @@ width: 500
 
 ::pic
 ---
-src: https://r2.065535.xyz/2026/02/955a454e06a664d32458b299a6a504c2.png
+src: https://assets.065535.xyz/posts/20260215_nga-content.png
+caption: 原图出处
 height: 400
 ---
 ::
