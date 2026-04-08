@@ -37,6 +37,18 @@ export default [
 				date: '2023-12-23',
 				comment: '舍友，曾任西建大iOS Club社长',
 			},
+			{
+				author: 'Rail-Station',
+				sitenick: '图鉴',
+				title: 'RS',
+				desc: 'Rail-Station 行迹车站图鉴',
+				link: 'https://rail-station.com/',
+				icon: 'https://rail-station.com/assets/logo/Rail-Station-RS-2048x.png',
+				avatar: 'https://rail-station.com/assets/logo/Rail-Station-RS-2048x.png',
+				archs: ['PHP', '服务器'],
+				date: '2024-08-10',
+				comment: '同学，目前专注于铁路相关内容的图鉴站点',
+			},
 		],
 	},
 	// #endregion
