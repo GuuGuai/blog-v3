@@ -23,7 +23,7 @@ categories: [经验分享]
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bcad02.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/boc-tianyi.webp
 caption: 天依小柠檬联名借记IC卡
 width: 400
 ---
@@ -49,7 +49,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bc41c1.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/boc-monai.webp
 caption: 万事达世界借记卡
 width: 400
 ---
@@ -75,12 +75,23 @@ width: 400
 
 ### 长城CCG联名借记卡（茈绫卡）
 
+::tab{:tabs='["竖版", "横版"]'}
+#tab1
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139d8ea4c.jpg
-caption: 长城CCG联名借记卡（茈绫卡）
+src: https://assets.065535.xyz/posts/2024/my-card/boc-ccg-2021-portrait.webp
+caption: 长城CCG联名借记卡（茈绫卡） 实体卡片为竖版
 height: 400
 ---
+::
+#tab2
+::pic
+---
+src: https://assets.065535.xyz/posts/2024/my-card/boc-ccg-2021-landscape.webp
+caption: 长城CCG联名借记卡（茈绫卡） 横版样式在云闪付app、手机Pay等场景展示
+width: 400
+---
+::
 ::
 
 - 卡组织：银联UnionPay
@@ -102,12 +113,23 @@ height: 400
 
 ### 长城CCG联名借记卡（茈绫2023）
 
+::tab{:tabs='["竖版", "横版"]'}
+#tab1
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139b99135.jpg
-caption: 长城CCG联名借记卡（茈绫2023）
+src: https://assets.065535.xyz/posts/2024/my-card/boc-ccg-2023-portrait.webp
+caption: 长城CCG联名借记卡（茈绫2023） 实体卡片为竖版
 height: 400
 ---
+::
+#tab2
+::pic
+---
+src: https://assets.065535.xyz/posts/2024/my-card/boc-ccg-2023-landscape.webp
+caption: 长城CCG联名借记卡（茈绫2023） 横版样式在云闪付app、手机Pay等场景展示
+width: 400
+---
+::
 ::
 
 - 卡组织：银联UnionPay
@@ -129,7 +151,7 @@ height: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139ba66f4.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/boc-bilibili.webp
 caption: 上海哔哩哔哩联名借记卡
 width: 400
 ---
@@ -154,7 +176,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bb18eb.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/cmb-bilibili.webp
 caption: 哔哩哔哩花嫁联名储蓄卡
 height: 400
 ---
@@ -175,7 +197,7 @@ height: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139dc4ad7.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/cmb-wujie.webp
 caption: 招商银行银联无界借记卡
 width: 400
 ---
@@ -197,8 +219,7 @@ width: 400
 
 ::pic
 ---
-src: https://p.ananas.chaoxing.com/star3/origin/2a1b2da99eefedf61cd00fd093e1939c.png
-mirror: baidu
+src: https://assets.065535.xyz/posts/2024/my-card/citic-amex.webp
 caption: 中信银行美国运通金卡借记卡
 width: 400
 ---
@@ -222,7 +243,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139be9b9d.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/ccb.webp
 caption: 龙卡通（储蓄卡）
 width: 400
 ---
@@ -243,7 +264,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bac517.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/ccb-wallet.jpg
 caption: 建行钱包
 width: 400
 ---
@@ -263,7 +284,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bd931f.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/abc.webp
 caption: 金穗借记卡
 width: 400
 ---
@@ -286,7 +307,7 @@ width: 400
 
 ::pic
 ---
-src: https://www.helloimg.com/i/2024/05/05/6637139bd0c61.jpg
+src: https://assets.065535.xyz/posts/2024/my-card/icbc-ssc.jpg
 caption: 陕西省社会保障卡
 width: 400
 ---

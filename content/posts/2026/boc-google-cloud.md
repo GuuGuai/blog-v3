@@ -16,8 +16,7 @@ categories: [经验分享]
 
 ::pic
 ---
-src: https://p.cldisk.com/star4/3ab09f351a2099871a28cac8e7d0d3f3/origin.png
-mirror: baidu
+src: https://assets.065535.xyz/posts/2026/boc-google-cloud/captcha-prompt-modal.png
 caption: 验证码提示窗口
 width: 400
 ---
@@ -43,8 +42,7 @@ Google会暂时扣一笔款然后在商户名称处标注一个6位的验证码�
 
 ::pic
 ---
-src: https://p.cldisk.com/star4/245f7b605ca2594646af3169435017ba/origin.png
-mirror: baidu
+src: https://assets.065535.xyz/posts/2026/boc-google-cloud/pre-auth-record-receipt.png
 caption: 预授权记录打印单
 width: 400
 ---
@@ -54,8 +52,7 @@ width: 400
 
 ::pic
 ---
-src: https://p.cldisk.com/star4/1926d43a4bfbba832cd448258f589a49/origin.png
-mirror: baidu
+src: https://assets.065535.xyz/posts/2026/boc-google-cloud/reversal-tx-sms.png
 caption: 冲正交易短信
 width: 400
 ---
@@ -67,8 +64,7 @@ width: 400
 
 ::pic
 ---
-src: https://p.cldisk.com/star4/29b25774cfea1b800737651fbbfe106b/origin.png
-mirror: baidu
+src: https://assets.065535.xyz/posts/2026/boc-google-cloud/captcha-expired-email.png
 caption: 验证码失效提醒邮件
 width: 400
 ---
